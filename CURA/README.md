@@ -6,6 +6,7 @@ larger nozzles if you increase the heat a bit. This was set for Prusa filament s
 work well with things like PETG or ABS as it has too fast of an initial layer. Slow down for your requirements. Enjoy!
 
 Ninjaflex:
+
   If you are using the ninjaflex profile, the profile is set for relatively high speed at a .4mm extrusion width. This is NOT capable with a .4mm nozzle, you will need a 
   .6mm nozzle. You can change the width to .2mm or .3mm for capability with a .4mm nozzle. The heat as is sits quite high, so if you decide to change the width lower 
   down the heat with .2mm being the lowest heat level (~245-255). Note the thicker your are, the hotter it requires to conduct heat and since this system is direct drive 
