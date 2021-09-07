@@ -25,4 +25,4 @@ Overture PETG (Translucent and Black):
  well, even better so than PLA. You can go down in layer size without adjusting any of the other settings. I have done a lot of honing to these profiles so they should 
  require much work. 
  
- BIG NOTE: OVERATURE has a very big issue with hydroscopic decay. I definitely recommend drying even after opening you fresh role and prior to every use.
+ BIG NOTE: OVERTURE has a very big issue with hydroscopic decay. I definitely recommend drying even after opening you fresh role and prior to every use.
