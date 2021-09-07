@@ -15,9 +15,9 @@ Ninjaflex:
   it is hard to go any faster than used because of the filament flexing and wrapping around your extrusion stepper. If you have issues with the extruder, either raise 
   your heat, give a greater z offset (TPU needs more space on the bed to expand, PLA is stiff so it can take the higher backpressure), or slow down your speeds. 
 
-Overature PETG (Translucent and Black):
+Overture PETG (Translucent and Black):
  
- I have noticed that the PETG that Overature uses requires quite the bit of heat. For this profile your printer will need your bed at 80 degrees and your nozzle at 275. 
+ I have noticed that the PETG that Overture uses requires quite the bit of heat. For this profile your printer will need your bed at 80 degrees and your nozzle at 275. 
  With PETG be careful as the brand types vary quite the bit depending on the mixture that they use. Pure filaments are not that great alone, so many companies do lace 
  their filament with a bit of others to assist with printing and strength. Different colors can have different affects depending upon the minerals used to create the 
  color. Due note that due to PETG's high heat and stringyness, you want higher speeds to print this. The files will be labled with their corresponding speeds. You DO NOT 
