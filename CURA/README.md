@@ -5,6 +5,8 @@ just make sure that you are properly leveled beforehand. DO NOT increase the ret
 larger nozzles if you increase the heat a bit. This was set for Prusa filament so it is subject to change if you have a different type. More than likely this will not
 work well with things like PETG or ABS as it has too fast of an initial layer. Slow down for your requirements. Enjoy!
 
+P.S. The high-speed profile is Prusa PLA Galaxy black at 140mm/s
+
 Ninjaflex:
 
   If you are using the ninjaflex profile, the profile is set for relatively high speed at a .4mm extrusion width. This is NOT capable with a .4mm nozzle, you will need a 
